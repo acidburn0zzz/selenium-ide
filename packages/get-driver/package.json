@@ -27,7 +27,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "node-fetch": "^2.6.0",
-    "tar": "^5.0.5",
+    "tar": "^7.5.22",
     "unzipper": "^0.10.5"
   },
   "devDependencies": {
